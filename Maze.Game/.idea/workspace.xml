@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4270364-e803-4448-9ac6-21a93ccf09d8" name="Default Changelist" comment="Seemed to have reverted the change for some reason and have remade changes" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4</find>
+      <find>TotalGold</find>
+      <find>alpha</find>
+      <find>axe</find>
+      <find>getChanges</find>
+      <find>d</find>
+      <find>21</find>
+      <find>inter</find>
+      <find>diamond</find>
+      <find>Diamond</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zgNfIsZWecGRmZ3f3rvXr9pn2L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557687046606" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/main/resources/Sprites/enemy.gif" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="application.Entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Minhaz Rahman\IdeaProjects\Maze.Game\target" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="BackgroundWorker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main.BackgroundWorker" />
+      <module name="Maze.game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main.Game" />
+      <module name="Maze.game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.neet.DiamondHunter.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWorkerSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.Main.SwingWorkerSample" />
+      <module name="Maze.game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwingWorkerSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingWorkerSample" />
+      <module name="Maze.game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeGame-1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/MazeGame-1.0.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="JAR Application.MazeGame-1.0.jar" />
+        <item itemvalue="Application.BackgroundWorker" />
+        <item itemvalue="Application.SwingWorkerSample (1)" />
+        <item itemvalue="Application.SwingWorkerSample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4270364-e803-4448-9ac6-21a93ccf09d8" name="Default Changelist" comment="" />
+      <created>1553714702098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553714702098</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit Test">
+      <created>1556094715683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556094715683</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit Test2">
+      <created>1556110861150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556110861150</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git ignore">
+      <created>1556116459165</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556116459165</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore remove target">
+      <created>1556116902301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556116902301</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changed speed to 1 to make enemy slower&#10;Changed maxmove to 4 so enemy can go in all directions (except diagonally)&#10;&#10;Fixed enemy discolour">
+      <created>1556119505005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556119505005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Enemy now takes Player health away when intersects by -1&#10;&#10;Must fix Enemy Movement speed as it has increased. &#10;(unsure as to reasoning yet">
+      <created>1556289812033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556289812034</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Can add multiple enemies.&#10;&#10;Enemies move as separate entities.&#10;&#10;Enemies move slowly.">
+      <created>1556293046355</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556293046355</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed Enemies, must create code to kill enemies/ threats">
+      <created>1557747049919</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1557747049919</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated JDK to 1.8.211">
+      <created>1557748523249</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557748523249</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Discovered that spawn count is not the same as what is written in code and is sometimes random.&#10;&#10;Simplified enemy spawn code to make it easier to read.">
+      <created>1558366354897</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558366354897</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Simplified spawn code further, decreased health of player and fixed &#10;enemy spawn count">
+      <created>1558428684478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558428684478</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Seemed to have reverted the change for some reason and have remade changes">
+      <created>1558429296560</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558429296560</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Test" />
+    <MESSAGE value="Commit Test2" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="git ignore remove target" />
+    <MESSAGE value="Changed speed to 1 to make enemy slower&#10;Changed maxmove to 4 so enemy can go in all directions (except diagonally)&#10;&#10;Fixed enemy discolour" />
+    <MESSAGE value="Enemy now takes Player health away when intersects by -1&#10;&#10;Must fix Enemy Movement speed as it has increased. &#10;(unsure as to reasoning yet" />
+    <MESSAGE value="Can add multiple enemies.&#10;&#10;Enemies move as separate entities.&#10;&#10;Enemies move slowly." />
+    <MESSAGE value="Fixed Enemies, must create code to kill enemies/ threats" />
+    <MESSAGE value="Updated JDK to 1.8.211" />
+    <MESSAGE value="Discovered that spawn count is not the same as what is written in code and is sometimes random.&#10;&#10;Simplified enemy spawn code to make it easier to read." />
+    <MESSAGE value="Simplified spawn code further, decreased health of player and fixed &#10;enemy spawn count" />
+    <MESSAGE value="Seemed to have reverted the change for some reason and have remade changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seemed to have reverted the change for some reason and have remade changes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Maze_Game$Game.ic" NAME="Game Coverage Results" MODIFIED="1556285217783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.neet.DiamondHunter.Main.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Maze.game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
